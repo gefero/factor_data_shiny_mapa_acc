@@ -16,6 +16,6 @@ Para la confección del mapa se siguieron los siguientes pasos:
 2. se filtraron las cinco categorías que se presentan 
 3. para cada radio censal se meustrearon cinco puntos al azar,
 
-	a. para cada punto se buscó el punto de cada categoría más cercano
-	b. para cada punto y cada lugar cercano se calculó la distancia y el tempo a pie vía calles (no en línea recta) usando el servicio Open Streem Map Router
-	c. Se tomó el tiempo y la distancia mediana de los cinco puntos para cada categoría, es es la métrica que se grafica
+- para cada punto se buscó el punto de cada categoría más cercano
+- para cada punto y cada lugar cercano se calculó la distancia y el tempo a pie vía calles (no en línea recta) usando el servicio Open Streem Map Router
+- se tomó el tiempo y la distancia mediana de los cinco puntos para cada categoría, es es la métrica que se grafica
