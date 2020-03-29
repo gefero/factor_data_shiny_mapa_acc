@@ -23,5 +23,5 @@ Para la confección del mapa se siguieron los siguientes pasos:
 ## Descarga de datos
 Para descargar el dataset a nivel radio censal
 
- -[![](img/Download.png)](/data_uploaded/distancias_radios_sin_geom.csv)
+ -[![](img/Download.png)](/factor_data_shiny_mapa_acc/docs/data_uploaded/distancias_radios_sin_geom.csv)
 
