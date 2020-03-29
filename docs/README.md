@@ -11,7 +11,7 @@ Para calcular las distancias agregadas a nivel de radio censal se replicó parte
 * La cartorafía censal fue obtenida del [Instituto Nacional de Estadística y Censos](https://www.indec.gob.ar/)
 * La información sobre la localización de los supermercados, almacenes, tiendas, bancos y cajeros automáticos fue obtenida de Google Places por [Antonio Vázquez Brust](https://www.linkedin.com/in/avazquez/?originalSubdomain=ar) y corresponde al año 2018
  
-s
+
 Para la confección del mapa se siguieron los siguientes pasos:
 
 1. se utilizaron los últimos puntos dispoibles de lugares de Google Places (2018)
