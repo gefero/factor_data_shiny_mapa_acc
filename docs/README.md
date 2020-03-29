@@ -1,9 +1,7 @@
 ![](img/logo.png)
 
-# Mapa de Accesibilidad a Servicios V1.0
 
 ## Introducción
-
 
 ## Metodología empleada
 Para calcular las distancias agregadas a nivel de radio censal se replicó parte de la metodología para la construcción del [Índice de Vulnerabilidad Sanitaria](https://www.researchsquare.com/article/rs-10738/v1). 
@@ -24,6 +22,6 @@ Para la confección del mapa se siguieron los siguientes pasos:
 
 ## Descarga de datos
 Para descargar el dataset a nivel radio censal
--![](img/Download.png)(https://github.com/gefero/factor_data_shiny_mapa_acc/docs/data_uploaded/distancias_radios_sin_geom.csv)
+-![](img/Download.png)(/docs/data_uploaded/distancias_radios_sin_geom.csv)
 
 
