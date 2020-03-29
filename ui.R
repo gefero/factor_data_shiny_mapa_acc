@@ -34,7 +34,7 @@
                                          #from = "Sales Dept",
                                          text = "Descarga de dataset",
                                          status ="info",
-                                         href = "https://gefero.github.io/factor_data_shiny_mapa_acc/data_uploaded/distancias_radios_sin_geom.csv"
+                                         href = "https://gefero.github.io/factor_data_shiny_mapa_acc/docs/data_uploaded/distancias_radios_sin_geom.csv"
                                      )
                         )
         ),
