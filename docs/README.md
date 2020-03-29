@@ -22,6 +22,7 @@ Para la confección del mapa se siguieron los siguientes pasos:
 
 ## Descarga de datos
 Para descargar el dataset a nivel radio censal
--![](img/Download.png)(/docs/data_uploaded/distancias_radios_sin_geom.csv)
+
+-![img/Download.png][/docs/data_uploaded/distancias_radios_sin_geom.csv)]
 
 
