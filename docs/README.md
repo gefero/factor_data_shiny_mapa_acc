@@ -1,3 +1,5 @@
+[![](img/logo.png)]
+
 # Mapa de Accesibilidad a Servicios V1.0
 
 ## Introducción
@@ -22,6 +24,6 @@ Para la confección del mapa se siguieron los siguientes pasos:
 
 ## Descarga de datos
 Para descargar el dataset a nivel radio censal
--[![](www/Download.png)](https://github.com/gefero/factor_data_shiny_mapa_acc/data_uploaded/distancias_radios_sin_geom.csv)
+-[![](img/Download.png)](https://github.com/gefero/factor_data_shiny_mapa_acc/data_uploaded/distancias_radios_sin_geom.csv)
 
 
