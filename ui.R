@@ -27,7 +27,7 @@
                                          #from = "Sales Dept",
                                          text = "Acerca del mapa",
                                          status ="info",
-                                         href = ""
+                                         href = "https://gefero.github.io/factor_data_shiny_mapa_acc/"
                                      )
                         )
         ),
@@ -36,10 +36,10 @@
                            
             
             actionButton(inputId = "supermarkets", label = "Supermercados"),
-            actionButton(inputId = "grocery_or_supermarket", label = "Alamcenes"),
+            actionButton(inputId = "grocery_or_supermarket", label = "Almacenes"),
             actionButton(inputId = "convenience_store", label = "Tiendas"),
             actionButton(inputId = "atm", label = "Cajeros automáticos"),
-            actionButton(inputId = "banks", label = "Bancos")
+            actionButton(inputId = "bank", label = "Bancos")
             
         )
         , dashboardBody(

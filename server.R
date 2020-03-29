@@ -26,7 +26,7 @@ shinyServer(
                             tooltip=c("print"),
                             auto_highlight = TRUE,
                             legend=TRUE,
-                            legend_options=list(title='Minutos'),
+                            legend_options=list(title='Minutos a supermercados'),
                             na_colour = "#DADDE5"
                 )
             
@@ -43,7 +43,7 @@ shinyServer(
                     tooltip=c("print"),
                     auto_highlight = TRUE,
                     legend=TRUE,
-                    legend_options=list(title='Minutos'),
+                    legend_options=list(title='Minutos a supermercados'),
                     na_colour = "#DADDE5"
                 )
         }
@@ -58,7 +58,7 @@ shinyServer(
                     tooltip=c("print"),
                     auto_highlight = TRUE,
                     legend=TRUE,
-                    legend_options=list(title='Minutos'),
+                    legend_options=list(title='Minutos a almacenes'),
                     na_colour = "#DADDE5"
                 )
         }
@@ -74,7 +74,7 @@ shinyServer(
                     tooltip=c("print"),
                     auto_highlight = TRUE,
                     legend=TRUE,
-                    legend_options=list(title='Minutos'),
+                    legend_options=list(title='Minutos a tiendas generales'),
                     na_colour = "#DADDE5"
                 )
         }
@@ -90,7 +90,7 @@ shinyServer(
                     tooltip=c("print"),
                     auto_highlight = TRUE,
                     legend=TRUE,
-                    legend_options=list(title='Minutos'),
+                    legend_options=list(title='Minutos a cajeros'),
                     na_colour = "#DADDE5"
                 )
         }
@@ -107,7 +107,7 @@ shinyServer(
                     tooltip=c("print"),
                     auto_highlight = TRUE,
                     legend=TRUE,
-                    legend_options=list(title='Minutos'),
+                    legend_options=list(title='Minutos a bancos'),
                     na_colour = "#DADDE5"
                 )
         }
