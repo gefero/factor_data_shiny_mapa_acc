@@ -23,7 +23,7 @@
                                      icon= icon("list", lib = "glyphicon"),
                                      badgeStatus='info',
                                      notificationItem(
-                                         icon= icon("info", lib = "glyphicon"),
+                                         icon= icon("list", lib = "glyphicon"),
                                          #from = "Sales Dept",
                                          text = "Acerca del mapa",
                                          status ="info",

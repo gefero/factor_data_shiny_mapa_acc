@@ -20,8 +20,3 @@ Para la confección del mapa se siguieron los siguientes pasos:
 - para cada punto y cada lugar cercano se calculó la distancia y el tempo a pie vía calles (no en línea recta) usando el servicio Open Streem Map Router
 - se tomó el tiempo y la distancia mediana de los cinco puntos para cada categoría, es es la métrica que se grafica
 
-## Descarga de datos
-Para descargar el dataset a nivel radio censal
-
- -[![](img/Download.png)](/factor_data_shiny_mapa_acc/docs/data_uploaded/distancias_radios_sin_geom.csv)
-
