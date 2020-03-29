@@ -19,7 +19,7 @@
                         titleWidth = 500,
                         
                         dropdownMenu(type = "messages",
-                                     headerText="Acerca del mapa",
+                                     headerText="",
                                      icon= icon("list", lib = "glyphicon"),
                                      badgeStatus='info',
                                      notificationItem(
@@ -28,6 +28,13 @@
                                          text = "Acerca del mapa",
                                          status ="info",
                                          href = "https://gefero.github.io/factor_data_shiny_mapa_acc/"
+                                     ),
+                                     notificationItem(
+                                         icon= icon("download", lib = "glyphicon"),
+                                         #from = "Sales Dept",
+                                         text = "Descarga de dataset",
+                                         status ="info",
+                                         href = "https://gefero.github.io/factor_data_shiny_mapa_acc/data_uploaded/distancias_radios_sin_geom.csv"
                                      )
                         )
         ),
